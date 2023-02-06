@@ -1,4 +1,4 @@
 Flask
 numpy
 pandas
-Python
+Python == 3.11
